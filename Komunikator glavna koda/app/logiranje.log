@@ -1,0 +1,37 @@
+2022-03-25 14:08:46,450 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:09:34,598 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:11:23,582 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:11:28,461 - output_to_user - INFO - Govor: bear  paw
+2022-03-25 14:11:35,541 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:15:05,197 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:15:13,290 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-25 14:15:13,291 - conversation_intelligence - INFO - Oseba naj gre peš
+2022-03-29 21:48:01,001 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:50:40,706 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:52:50,907 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:54:27,246 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:56:37,549 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:58:37,548 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:58:46,153 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-29 22:01:48,819 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 22:01:56,701 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-29 22:01:56,702 - conversation_intelligence - INFO - Oseba naj gre peš
+2022-05-14 22:50:31,975 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:53:18,259 - conversation_main - INFO - zdravo
+2022-05-14 22:53:37,672 - conversation_main - INFO - zdravo
+2022-05-14 22:54:48,213 - engineio.server - ERROR - Invalid session WevvZV28xWTG-a79AAAE (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:54:48,386 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:54:59,415 - engineio.server - ERROR - Invalid session Jq3b-EzdLAaKqjGJAAAA (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:54:59,648 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:55:26,366 - engineio.server - ERROR - Invalid session -TcEuK9jyhb37hpaAAAA (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:55:26,400 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:55:50,232 - engineio.server - ERROR - Invalid session yPCedcCkQHxr0fC4AAAA (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:55:50,387 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:56:07,931 - engineio.server - ERROR - Invalid session MiLitnuYoFlTFxqPAAAA (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:56:08,059 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:56:18,399 - engineio.server - ERROR - Invalid session rd1zBdrIFNDFY_BQAAAA (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:56:18,417 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:57:13,406 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-05-14 22:57:32,234 - conversation_main - INFO - zdravo
+2022-05-14 22:58:05,487 - conversation_main - INFO - zdravo
+2022-05-14 22:59:16,494 - conversation_main - INFO - nasvidenje
